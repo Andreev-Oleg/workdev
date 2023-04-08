@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://raw.githubusercontent.com/Andreev-Oleg/workdev/master/img/olesia.jpg);
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-color: pink;
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  #generate-button {
+    display: block;
+    margin: 0 auto;
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
