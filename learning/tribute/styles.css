@@ -1,0 +1,36 @@
+header {
+    text-align: center;
+    padding: 15px;
+    margin: 45px;
+    }
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  .gray {
+    background-color: #e2e2e2
+  }
+  #img-div {
+    background-color: #FFFFFF;
+    margin: 25px;
+
+  }
+  #img-caption {
+    text-align: center;
+    padding: 10px;
+  }
+  .tribute-info {
+    align-items: center;
+    padding: 0 33%;
+  }
+
+  li {
+    padding: 10px 0;
+  }
+  
+  h3 {
+    text-align: center;
+    padding: 30px;
+  }
